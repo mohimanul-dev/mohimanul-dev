@@ -7,9 +7,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohimanul-Islam&label=Profile+Views&color=0e7490&style=for-the-badge)](https://github.com/mohimanul-Islam)
-[![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-0f2137?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/mohimanul-Islam)
-[![Freelance](https://img.shields.io/badge/Freelancer-Available-06b6d4?style=for-the-badge&logo=fiverr&logoColor=white)](https://github.com/mohimanul-Islam)
+[![Profile Views](https://komarev.com/ghpvc/?username=mohimanul-dev&label=Profile+Views&color=0e7490&style=for-the-badge)](https://github.com/mohimanul-dev)
+[![Years of Experience](https://img.shields.io/badge/Experience-5%2B%20Years-0f2137?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/mohimanul-dev)
+[![Freelance](https://img.shields.io/badge/Freelancer-Available-06b6d4?style=for-the-badge&logo=fiverr&logoColor=white)](https://github.com/mohimanul-dev)
 
 </div>
 
@@ -132,14 +132,14 @@ const mohimanul = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohimanul-Islam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohimanul-Islam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohimanul-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohimanul-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohimanul-Islam&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohimanul-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -172,9 +172,9 @@ const mohimanul = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mohimanul.cse@gmail.com-0e7490?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohimanul.cse@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohimanul-islam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohimanul-dev)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f2137?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mohimanul-Islam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f2137?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mohimanul-dev)
 
 </div>
 
